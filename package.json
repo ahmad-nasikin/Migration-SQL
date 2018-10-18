@@ -1,0 +1,10 @@
+{
+  "name": "mysqlConvert",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "node-norm": "1.1.0",
+    "node-norm-mysql": "^1.1.3"
+  }
+}
